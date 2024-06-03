@@ -1,0 +1,2 @@
+# Chính sách thanh toán
+
