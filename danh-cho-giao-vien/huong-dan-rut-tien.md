@@ -27,17 +27,3 @@
 <figure><img src="../.gitbook/assets/photo_2024-06-10_14-18-33 (2).jpg" alt="" width="296"><figcaption></figcaption></figure>
 
 **B7:** Khi rút tiền thành công, lúc lại tại phía chúng tôi sẽ nhận được một thông báo rút tiền của bạn sau đó chúng tôi xem xét giao dịch của bạn và thực hiện chuyển tiền về tài khoản cho bạn (thời gian tối đa để thực hiện giao dịch là 2 ngày trong giờ hành chính ) và thông báo cho bạn sau khi giao dịch thành công
-
-**(\*) Lưu ý: Bạn có thể xem lại lịch sử giao dịch theo hướng dẫn dưới đây**
-
-**B1:** Tại màn **Tiếp thị** chọn **Doanh thu**
-
-<figure><img src="../.gitbook/assets/photo_2024-06-10_14-39-52 (2).jpg" alt="" width="296"><figcaption><p><em>Chức nằng Doanh thu tại màn Tiếp thị</em></p></figcaption></figure>
-
-**B2:** Sau khi thực hiện xong **B1** sẽ mở ra màn **Thu nhập của bạn**
-
-<figure><img src="../.gitbook/assets/photo_2024-06-10_14-48-12 (1).jpg" alt="" width="296"><figcaption><p><em>Màn Doanh thu của bạn</em></p></figcaption></figure>
-
-**B3:** Để xem được giao dịch rút tiền bạn vừa thực hiện ở màn **Thu nhập của bạn** chọn Tab **Rút tiền** lúc này ở Tab **Rút tiền** sẽ hiển thị các giao dịch mà bạn đã thực hiện
-
-<figure><img src="../.gitbook/assets/photo_2024-06-10_15-01-44 (1).jpg" alt="" width="296"><figcaption></figcaption></figure>
