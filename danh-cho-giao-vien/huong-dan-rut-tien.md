@@ -2,7 +2,7 @@
 
 (\*) Lưu ý: Để có thể rút tiền từ App về ngân hàng của bạn điều kiện bắt buộc là bạn phải có ngân hàng trước đó, để có thể thêm được ngân hàng vào tài khoản trên App vui lòng xem **Hướng dẫn thêm ngân hàng vào tài khoản**
 
-**B1: B1:** Tại màn **Trang chủ** chọn nút **Tiếp thị**
+**B1:** Tại màn **Trang chủ** chọn nút **Tiếp thị**
 
 <figure><img src="../.gitbook/assets/photo_2024-06-10_10-15-08 (1).jpg" alt="" width="360"><figcaption><p><em>Nút Tiếp thị tại màn Trang chủ</em></p></figcaption></figure>
 
