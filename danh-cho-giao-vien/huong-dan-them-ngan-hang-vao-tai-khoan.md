@@ -6,7 +6,7 @@
 
 **B2:** Sau khi chọn nút **Tiếp thị** sẽ mở ra màn **Tiếp thị**&#x20;
 
-<figure><img src="../.gitbook/assets/photo_2024-06-10_10-48-44.jpg" alt="" width="360"><figcaption><p><em><strong>Màn Tiếp thị</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-06-10_10-48-44.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
 **B3:** Tại màn **Tiếp thị** chọn **Rút tiền**
 
