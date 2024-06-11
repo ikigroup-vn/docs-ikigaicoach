@@ -24,4 +24,6 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-06-11_10-10-54.jpg" alt="" width="296"><figcaption></figcaption></figure>
 
-B7: Sau khi thực hiện xong B6&#x20;
+**B7:** Sau khi thực hiện xong **B6** sẽ vào màn Chi tiết câu lạc bộ bạn vừa tạo
+
+<figure><img src="../.gitbook/assets/photo_2024-06-11_10-32-13.jpg" alt="" width="296"><figcaption><p><em>Màn Chi tiết câu lạc bộ bạn vừa tạo</em></p></figcaption></figure>
