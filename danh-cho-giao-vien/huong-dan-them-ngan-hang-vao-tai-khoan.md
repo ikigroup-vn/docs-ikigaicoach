@@ -32,7 +32,7 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-06-10_11-48-30.jpg" alt="" width="295"><figcaption></figcaption></figure>
 
-**B8:** Sau khi thực hiện xong **B7** ấn vào nút **Tiếp tục** sẽ trở về màn **Rút tiền với thông tin tài khoản vừa thêm**&#x20;
+**B8:** Sau khi thực hiện xong **B7** ấn vào nút **Tiếp tục** sẽ trở về màn **Rút tiền** với thông tin tài khoản vừa thêm&#x20;
 
 <figure><img src="../.gitbook/assets/photo_2024-06-10_13-40-12.jpg" alt="" width="370"><figcaption><p><em>Màn Rút tiền sau khi thêm tài khoản ngân hàng thành công</em> </p></figcaption></figure>
 
@@ -52,9 +52,9 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-06-10_15-30-44.jpg" alt="" width="360"><figcaption><p><em>Popup Chọn ngân hàng</em></p></figcaption></figure>
 
-**B13:** Thực hiện chọn ngân hàng mà bạn muốn thêm rồi thao tác như **B6**, **B7** sau khi thực hiện xong màn hình sẽ hiển thị ngân hàng bạn vừa thêm
+**B13:** Thực hiện chọn ngân hàng mà bạn muốn thêm rồi thao tác như **B6**, **B7** sau khi thực hiện xong màn hình sẽ hiển thị ngân hàng bạn vừa thêm cùng với thông báo **Thêm thẻ ngân hàng thành công**
 
-<figure><img src="../.gitbook/assets/photo_2024-06-10_16-12-51.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-06-10_16-12-51.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
 **B14:** Để quản lý các tài khoản ngân hàng bạn ấn chọn vào ngân hàng vừa thêm lúc này sẽ mở ra màn **Tài khoản ngân hàng** hiển thị đầy đủ danh sách các ngân hàng bạn đã thêm&#x20;
 
