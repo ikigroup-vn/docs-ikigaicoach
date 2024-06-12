@@ -26,7 +26,7 @@
 * [Hướng dẫn bắt đầu cuộc gọi với Học sinh và Chat với Học sinh](danh-cho-giao-vien/huong-dan-bat-dau-cuoc-goi-voi-hoc-sinh-va-chat-voi-hoc-sinh.md)
 * [Hướng dẫn chỉnh sửa Profile giáo viên](danh-cho-giao-vien/huong-dan-chinh-sua-profile-giao-vien.md)
 * [Hướng dẫn tạo Club mới](danh-cho-giao-vien/huong-dan-tao-club-moi.md)
-* [Hướng dẫn tuỳ chỉnh Club, livestream, tạo sự kiện trong Club](danh-cho-giao-vien/huong-dan-tuy-chinh-club-livestream-tao-su-kien-trong-club.md)
+* [Hướng dẫn tuỳ chỉnh Câu lạc bộ, livestream, tạo sự kiện trong Câu lạc bộ](danh-cho-giao-vien/huong-dan-tuy-chinh-cau-lac-bo-livestream-tao-su-kien-trong-cau-lac-bo.md)
 * [Làm thế nào để tạo nội dung khoá học trở nên hấp dẫn hơn?](danh-cho-giao-vien/lam-the-nao-de-tao-noi-dung-khoa-hoc-tro-nen-hap-dan-hon.md)
 * [Làm thế nào để thu hút học sinh mua khoá học của mình](danh-cho-giao-vien/lam-the-nao-de-thu-hut-hoc-sinh-mua-khoa-hoc-cua-minh.md)
 * [Làm thế nào để khoá học của bạn hấp dẫn những người bán hàng cho bạn?](danh-cho-giao-vien/lam-the-nao-de-khoa-hoc-cua-ban-hap-dan-nhung-nguoi-ban-hang-cho-ban.md)
