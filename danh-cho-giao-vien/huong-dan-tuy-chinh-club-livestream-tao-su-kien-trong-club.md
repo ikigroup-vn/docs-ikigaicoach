@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-06-12_11-15-24.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
-**B2:** Sau khi thực hiện xong **B1** màn hình sẽ hiển thị nút **Cài đặt câu lạc bộ** ở phía bên dưới màn hình
+**B2:** Sau khi thực hiện xong **B1** màn hình sẽ hiển thị Popup **Cài đặt câu lạc bộ** ở phía bên dưới màn hình
 
 <figure><img src="../.gitbook/assets/photo_2024-06-12_11-17-49.jpg" alt="" width="360"><figcaption><p><em>Nút Cài đặt câu lạc bộ ở màn Chi tiết câu lạc bộ</em></p></figcaption></figure>
 
@@ -63,4 +63,34 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-06-12_15-33-24.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
-B6:&#x20;
+**B6:** Sau khi thực hiện xong **B5** sẽ về màn **Sự kiện** đồng thời hiển thị sự kiện bạn vừa tạo và thông báo **Tạo sự kiện thành công**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_15-33-24 (3).jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**(\*) Lưu ý: Để tuỳ chỉnh Sự kiện xem hướng dẫn bên dưới đây:**
+
+**B1: Tại màn Sự kiện** ấn chọn vào sự kiện đã tạo
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_16-01-03.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+&#x20;**B2:** Sau khi thực hiện xong **B2** sẽ vào màn **Chi tiết sự kiện**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_17-14-43.jpg" alt="" width="360"><figcaption><p><em>Màn Chi tiết sự kiện</em></p></figcaption></figure>
+
+**B3:** Tại màn **Chi tiết sự kiện** ấn chọn dấu **3 chấm** ở phía trên cùng bên trái màn hình&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_17-19-54.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B4:** Sau khi thực hiện xong **B3** sẽ hiển thị Popup với 2 sự lựa chọn: **Chỉnh sửa Sự kiện** và **Xoá sự kiện**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_17-52-52.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B5:** Để thay đổi các thông tin trong **Sự kiện** của bạn chọn **Chỉnh sửa Sự kiện**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_17-56-18.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B6:** Sau khi thực hiện xong **B5** sẽ vào màn **Chỉnh sửa sự kiện** sau đó bạn có thể tuỳ chỉnh các thông tin sự kiện theo mong muốn rồi ấn chọn nút **Gửi** phía bên dưới màn hình
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_17-57-29.jpg" alt="" width="360"><figcaption><p><em>Màn Chỉnh sửa sự kiện</em></p></figcaption></figure>
+
+B7:
