@@ -2,6 +2,7 @@
 
 (\*) Lưu ý: Để có thể tuỳ chỉnh Club, livestream, tạo sự kiện Club điều kiện bắt buộc là bạn phải tạo được Club trước đó, để có thể tạo được Club vui lòng xem **Hướng dẫn tạo Club mới**
 
+**I. TUỲ CHỈNH CÂU LẠC BỘ**\
 **B1:** Tại màn **Chi tiết câu lạc bộ** chọn **Đã tham gia** \
 
 
@@ -39,3 +40,27 @@
 **B9:** Tại **B8** nếu bạn chọn **Đồng ý** tại Popup **Xác nhận xoá** lúc này sẽ trờ về màn **Cầu lạc bộ** đồng thời hiển thị thông báo **Xoá câu lạc bộ thành công**
 
 <figure><img src="../.gitbook/assets/photo_2024-06-12_15-06-42.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**II. TẠO SỰ KIỆN TRONG CÂU LẠC BỘ**
+
+**B1:** Tại màn **Chi tiết câu lạc bộ** chọn **Sự kiện**&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_15-20-29.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B2:** Sau khi thực hiện xong **B1** sẽ vào màn **Sự kiện**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_15-22-19.jpg" alt="" width="360"><figcaption><p><em>Màn Sự kiện</em></p></figcaption></figure>
+
+**B3:** Để tạo **Sự kiện** cho **Câu lạc bộ** ấn chọn dấu **+** ở phía trên cùng bên trái màn hình&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_15-28-56.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B4:** Sau khi thực hiện xong **B3** sẽ vào màn **Tạo sự kiện**&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_15-31-08.jpg" alt="" width="360"><figcaption><p><em>Màn Tạo sự kiện</em> </p></figcaption></figure>
+
+**B5:** Sau khi nhập đầy đủ thông tin tại màn **Tạo sự kiện** ấn vào nút **Tạo sự kiện**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-12_15-33-24.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+B6:&#x20;
