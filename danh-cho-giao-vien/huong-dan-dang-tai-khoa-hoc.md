@@ -21,4 +21,16 @@
 * **Giá khoá học (Bắt buộc):** Bạn có thể nhập giá khoá học của mình theo mong muốn cá nhân&#x20;
 * **Danh mục (Bắt buộc):** Bạn có thể chọn danh mục phù hợp với khoá học của mình
 * **Đặt lịch khai giảng (Không bắt buộc):** Chọn lịch bắt đầu khoá học theo ý bạn mong muốn, nếu không chọn sẽ mặc định là ngày hôm nay&#x20;
-* **Chế độ công khai (Không bắt buộc):** Chọn ngày kết thúc khoá học theo ý bạn mong muốn, nếu không chọn sẽ mặc định là không hết hạn&#x20;
+* **Thời gian hết hạn (Không bắt buộc):** Chọn ngày kết thúc khoá học theo ý bạn mong muốn, nếu không chọn sẽ mặc định là không hết hạn&#x20;
+* **Chế độ công khai (Không bắt buộc):** Có 2 lựa chọn **Bản nháp** (là trạng thái chỉ giáo viên đang tạo nhìn thấy được dùng trong trường hợp giáo viên đang hoàn thiện và chưa muốn ai nhìn thấy khoá học), **Công khai** (khi chọn chế độ này khoá học lập tức được đội ngũ của Admin của Ikigai Coach kiểm duyệt, sau khi kiểm duyệt thành công khoá học của bạn sẽ được công khai với tất cả mọi người)
+
+**B4:** Sau khi thực hiện xong **B3** ấn vào nút **Tạo khoá học**
+
+<figure><img src="../.gitbook/assets/photo_2024-06-21_11-01-03.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B5:** Sau khi thực hiện xong **B4** lúc này màn hình sẽ về màn **Chi tiết khoá học**&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-06-21_11-03-38.jpg" alt="" width="360"><figcaption><p><em>Màn hình chi tiết khoá học khi chọn chế độ nháp</em></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/photo_2024-06-21_11-37-06.jpg" alt="" width="360"><figcaption><p><em>Màn hình chi tiết khoá học khi chọn chế độ công khai</em> </p></figcaption></figure>
+
