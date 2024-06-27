@@ -19,4 +19,4 @@
 
 **B5:** Để xem lại lịch học tại màn **Chi tiết khoá học** ấn chọn Tab **Lịch học**
 
-<figure><img src="../.gitbook/assets/photo_2024-06-27_11-14-48.jpg" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-06-27_11-14-48.jpg" alt="" width="360"><figcaption><p><em>Tab Lịch học</em></p></figcaption></figure>
