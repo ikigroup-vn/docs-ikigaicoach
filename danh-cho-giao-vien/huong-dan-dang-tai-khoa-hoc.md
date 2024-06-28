@@ -30,7 +30,7 @@
 
 **B5:** Sau khi thực hiện xong **B4** lúc này màn hình sẽ về màn **Chi tiết khoá học**&#x20;
 
-<figure><img src="../.gitbook/assets/photo_2024-06-21_11-03-38.jpg" alt="" width="360"><figcaption><p><em>Màn hình chi tiết khoá học khi chọn chế độ nháp</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-06-21_11-03-38.jpg" alt="" width="360"><figcaption><p><em>Màn hình chi tiết khoá học khi chọn chế độ Nháp</em></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/photo_2024-06-21_11-37-06.jpg" alt="" width="360"><figcaption><p><em>Màn hình chi tiết khoá học khi chọn chế độ công khai</em> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-06-21_11-37-06.jpg" alt="" width="360"><figcaption><p><em>Màn hình chi tiết khoá học khi chọn chế độ Công khai</em> </p></figcaption></figure>
 
