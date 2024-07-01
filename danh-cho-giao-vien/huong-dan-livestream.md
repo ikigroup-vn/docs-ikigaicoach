@@ -25,6 +25,6 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-07-01_14-03-19.jpg" alt="" width="360"><figcaption></figcaption></figure>
 
-* Sau khi lưu cấu hình, livestream sẽ về màn **Danh sách livestream** đồng thời hiển thị thông báo Lên lịch thành công
+* Sau khi lưu cấu hình, livestream sẽ về màn **Danh sách livestream** đồng thời hiển thị thông báo **Lên lịch thành công**
 
 <figure><img src="../.gitbook/assets/photo_2024-07-01_09-34-45 (1).jpg" alt="" width="360"><figcaption></figcaption></figure>
