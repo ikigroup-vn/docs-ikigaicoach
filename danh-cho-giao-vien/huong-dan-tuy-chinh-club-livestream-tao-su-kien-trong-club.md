@@ -93,4 +93,10 @@
 
 <figure><img src="../.gitbook/assets/photo_2024-06-12_17-57-29.jpg" alt="" width="360"><figcaption><p><em>Màn Chỉnh sửa sự kiện</em></p></figcaption></figure>
 
-B7:
+**B7:** Sau khi thực hiện xong **B6** sẽ về màn **Chi tiết sự kiện** đồng thời hiển thị thông báo **Cập nhật thành công** lúc này sự kiện đã được thay đổi theo mong muốn
+
+<figure><img src="../.gitbook/assets/photo_2024-07-01_14-32-04.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**III. TẠO LIVESTREAM TRONG CÂU LẠC BỘ**
+
+B1: Tại màn Chi tiết Câu lạc bộ ấn chọn dấu + ở bên phải phía dưới màn hình&#x20;
