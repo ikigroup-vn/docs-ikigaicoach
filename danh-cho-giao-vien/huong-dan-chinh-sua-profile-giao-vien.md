@@ -16,3 +16,8 @@
 
 **B4:** Sau khi thực hiện xong **B3** sẽ vào màn **Sửa hồ sơ**
 
+
+
+**B5**: Sau khi thực hiện xong **B4** sẽ quay về màn **Cài đặt** đồng thời hiển thị thông báo **Cập nhật thành công,** lúc này thông tin bạn vừa chỉnh sửa đã được lưu lại.
+
+<figure><img src="../.gitbook/assets/photo_2024-07-01_09-25-12.jpg" alt="" width="360"><figcaption></figcaption></figure>
