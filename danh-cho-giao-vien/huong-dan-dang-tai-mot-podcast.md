@@ -42,3 +42,12 @@
 
 **B2:** Sau khi thực hiện xong **B1** sẽ vào màn **Tải lên podcast**
 
+**III. HƯỚNG DẪN XEM PODCAST CỦA TÔI**
+
+**B1:** Tại màn **Sách nói** chọn **Podcast của tôi**&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-07-05_09-35-15.jpg" alt="" width="360"><figcaption><p><em>Màn Sách nói</em></p></figcaption></figure>
+
+**B2:** Sau khi thực hiện xong **B1** sẽ vào màn **Podcast của tôi,** tại màn này sẽ hiển thị podcast của bạn đã tạo&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-07-05_09-38-16.jpg" alt="" width="360"><figcaption><p><em>Màn Podcast của tôi</em> </p></figcaption></figure>
