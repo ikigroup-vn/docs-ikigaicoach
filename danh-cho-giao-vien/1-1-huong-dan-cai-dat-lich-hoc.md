@@ -1,6 +1,6 @@
 # \[1 - 1] Hướng dẫn cài đặt lịch học
 
-**B1:** Tại màn **Chi tiết khoá** học ấn chọn **Chỉnh sửa thời gian học**
+**B1:** Tại màn **Chi tiết khoá học** ấn chọn **Chỉnh sửa thời gian học**
 
 <figure><img src="../.gitbook/assets/photo_2024-06-27_10-00-00.jpg" alt="" width="360"><figcaption><p><em>Màn Chi tiết khoá học</em></p></figcaption></figure>
 
