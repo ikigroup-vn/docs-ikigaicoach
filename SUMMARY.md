@@ -47,6 +47,7 @@
 * [Hướng dẫn rút tiền](danh-cho-nguoi-hoc/huong-dan-rut-tien.md)
 * [Làm thế nào để bán được nhiều hàng hơn?](danh-cho-nguoi-hoc/lam-the-nao-de-ban-duoc-nhieu-hang-hon.md)
 * [Làm thế nào để học với giáo viên hiệu quả?](danh-cho-nguoi-hoc/lam-the-nao-de-hoc-voi-giao-vien-hieu-qua.md)
+* [Hướng dẫn đăng nhập/Đăng ký/Quên mật khẩu](danh-cho-nguoi-hoc/huong-dan-dang-nhap-dang-ky-quen-mat-khau.md)
 
 ## Dành cho đối tác
 
