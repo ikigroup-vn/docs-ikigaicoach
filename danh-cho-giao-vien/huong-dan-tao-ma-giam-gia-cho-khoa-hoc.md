@@ -20,4 +20,11 @@
 * **Loại giảm giá:** Có 2 loại cho bạn lựa chọn: **Mức giảm** (khi bạn chọn mức giảm bạn phải nhập mức giảm là số tiền để áp dụng vào sản phẩm bạn đã chọn), **Phần trăm** (khi bạn chọn phần trằm bạn phải nhập phần trăm giảm giá sẽ được tính tương đương với số tiền màn bạn đã chọn)
 * **Khoảng thời gian:** Chọn ngày bắt đầu và ngày kết thúc của mã giảm giá này
 
-B5:&#x20;
+**B5:** Sau khi thực hiện xong **B4** ấn nút **Thêm mới mã giảm giá**&#x20;
+
+<figure><img src="../.gitbook/assets/photo_2024-08-07_11-26-43.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+**B6:** Sau khi thực **B5** sẽ về màn **Danh sác mã giảm giá** **cho khách hàng** đồng thời hiển thị thông báo **Thêm mới mã giảm giá thành công**
+
+<figure><img src="../.gitbook/assets/photo_2024-08-07_11-55-34.jpg" alt="" width="360"><figcaption><p><em>Màn Danh sách mã giảm giá cho khách hàng</em></p></figcaption></figure>
+
